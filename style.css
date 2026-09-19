@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="style.css"/>
+body{
+  background-color:F0FFF0
+}
+
+Header, footer, {background-color: lemonchiffon;
+color: cornflower}
+
+<!-- In HTML -->
+<h1 id = "my-name"> Gloria Franco/h1>
+
+/* In style.css */
+#my-name {
+  font-family: 'view-transition'
+}
+img{
+  border: 3px darkslateblue;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 200px;
+  background-color: deeppink
+  border: 2px solid;
+  padding: 5px; 
+  box-sizing: border-box;
+}
